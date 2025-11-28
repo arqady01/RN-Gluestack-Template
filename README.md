@@ -30,6 +30,7 @@
 - **框架与运行时**：Expo 54、Expo Router 6、React 19、React Native 0.81、TypeScript 5.9
 - **导航与动画**：React Navigation（bottom-tabs、elements、native 等）、React Native Gesture Handler、React Native Reanimated、Safe Area Context、Screens
 - **系统能力**：Expo Image、Expo Haptics、Expo Splash Screen、Expo System UI、Expo Web Browser 等模块
+- **图形渲染**：react-native-skia（@shopify/react-native-skia 2.2.12），用于实现高性能 Canvas 绘制与可视化效果
 - **UI 体系**：Gluestack Style + Gluestack UI Themed，支持主题化组件开发
 - **开发工具**：ESLint（expo 配置）、expo lint、tsconfig 预设
 
